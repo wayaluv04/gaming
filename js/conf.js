@@ -1,0 +1,1 @@
+callback__leklvgfy_1({c:{lazyload:!0,gdpr:{ga:1},gam:0,hb:[],plt:"vjs",pvid:"a13da1be-bc9e-4d11-996c-2f7e8bc8222d",ogury:!1},url:"https://c0.pubmine.com/2.37.01676555152295/ata.js"});
